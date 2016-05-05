@@ -1,0 +1,100 @@
+eCalc  -  Multicopter Calculator                    all data without guarantee - Accuracy:  /-15%,,
+,,
+,,
+Project Name,,RD-B1A
+,,
+Battery,,custom
+Configuration:,,3S1P
+Load:,C,10.27
+Voltage:,V,10.54
+Rated Voltage:,V,11.1
+Energy:,Wh,38.85
+Total Capacity:,mAh,3500
+max. discharge:,,85%
+Used Capacity:,mAh,2975
+min. Flight Time:,min,5
+Mixed Flight Time:,min,12
+Hover Flight Time:,min,18.4
+Weight:,g,211
+,oz,7.4
+,,
+,,
+Controller,,custom
+Current:,A cont.,20
+,A max,30
+Weight:,g,8
+,oz,0.3
+,,
+,,
+Accessories,,
+Current drain:,A,0
+Weight:,g,0
+,oz,0
+,,
+,,
+Motor @ Maximum,,Lumenier RX1806-14** (2300)
+Gear Ratio:,: 1,1
+Weight:,g,22
+,oz,0.8
+Current:,A,8.98
+Voltage:,V,10.45
+Revolutions*:,rpm,18200
+electric Power:,W,93.9
+mech. Power:,W,68
+Efficiency:,%,72.4
+est. Temperature:,°C,43
+,°F,109
+,,
+,,
+Motor @ Hover,,
+Propeller,,"GWS (0°)  5"" x 3"""
+# Blades:,,3
+Current:,A,2.42
+Voltage:,V,10.92
+Revolutions*:,rpm,10692
+Throttle (log):,%,40
+Throttle (linear):,%,54
+Power-Weight:,W/kg,188.2
+,W/lb,85.4
+Efficiency:,%,73.1
+specific Thrust:,g/W,5.4
+,oz/W,0.19
+est. Temperature:,°C,30
+,°F,86
+,,
+,,
+Total Drive,,
+Drive Weight:,g,364
+,oz,12.8
+Power-Weight:,W/kg,656.7
+,W/lb,297.9
+Thrust-Weight:,: 1,2.3
+Current @ Hover:,A,9.7
+P(in) @ Hover:,W,107.6
+P(out) @ Hover:,W,77.4
+Efficiency @ Hover:,%,71.9
+Current @ max:,A,35.94
+P(in) @ max:,W,398.9
+P(out) @ max:,W,271.9
+Efficiency @ max:,%,68.2
+,,
+,,
+Multicopter,,
+# of Rotors:,,4 - flat
+All-up Weight:,g,572
+,oz,20.2
+add. Payload:,g,563
+,oz,19.9
+max Tilt:,°,60
+max. Speed:,km/h,58
+,mph,36
+est. rate of climb:,m/s,10.2
+,ft/min,2008
+with Rotor fail:,,uncontrolable
+,,
+,,
+Remarks:,,0
+,,
+Statement for using this calculator: All values are calculated and may deviate from the real. Before flight you have to recheck the actual max. values. All max. values must stay within the limits of the manufacturers. A commercial use is forbidden. We reject any liability! ,,
+,,
+(c) by Solution for All   -   6.70, 07.04.16,
